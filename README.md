@@ -52,6 +52,11 @@ npm start
 La api estará disponible en:
 `http://localhost:300/api`
 
+# Ejemplo
+```bash
+curl -X GET http://localhost:3000/api/incidents
+```
+
 ## Endpoints Clave
 | Metodo | Endopoint    | Body (ejemplo)                             | Descripcion               |
 |--------|--------------|--------------------------------------------|---------------------------|
