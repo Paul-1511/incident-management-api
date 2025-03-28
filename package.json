@@ -1,0 +1,23 @@
+{
+    "name": "incident-management-api",
+    "version": "1.0.0",
+    "description": "API para gestión de incidentes de soporte técnico",
+    "main": "src/app.js",
+    "scripts": {
+        "start": "node src/app.js",
+        "dev": "nodemon src/app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Pablo Mendez",
+    "license": "MIT",
+    "dependencies": {
+        "dotenv": "^16.3.1",
+        "express": "^4.18.2",
+        "incident-management-api": "file:",
+        "mongoose": "^8.0.3"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.2"
+    }
+}
