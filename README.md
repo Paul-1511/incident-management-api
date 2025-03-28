@@ -1,6 +1,6 @@
 #  API de Gestión de Incidentes - Requerimientos Técnicos
 
-## 📋 Requisitos Previos
+## Requisitos Previos
 
 Para ejecutar esta API, asegúrate de tener instalado en tu sistema:
 
